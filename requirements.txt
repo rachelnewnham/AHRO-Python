@@ -1,0 +1,8 @@
+  
+numpy
+pandas
+matplotlib
+seaborn
+requests
+dcxml
+git+git://github.com/sailngarbwm/Jgarber-respitch@main#egg=jgarber_respitch
