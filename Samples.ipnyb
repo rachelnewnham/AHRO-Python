@@ -1,6 +1,12 @@
 
  
  ##let's see what happens
+ {
+   "cell_type": "markdown",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "notes"
+    }
 "source": [
     "### Sidebar: What is a Jupyter notebook and why does this one have so many memes?\n",
     "Well the memes are a brilliant yet edgy creative choice by the presenter but this brings up a great question!\n",
@@ -15,3 +21,18 @@
     "\n",
     "An external file for jupyter commands can be found on the [github](https://github.com/resbaz/introPython_July2017/blob/master/jupyterNotebook_Cheatsheet.pdf)."
    ]
+{
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "#To \"run\" a cell, you can use the keyboard command Shift-Enter, \n",
+    "# or the control bar \n",
+    "Stuff!"
+   ]
+  },
